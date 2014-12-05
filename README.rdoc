@@ -3,4 +3,6 @@
 
 The Pivot. 
 
+Group Rails project done in three weeks in Late October 2014.  We inherited and repurposed a legacy codebase with the goal of learning to build a multi-tenant eCommerce site.  My responsibilities included functionality for allowing store owners to set custom options for items using hstore, and the checkout process.
+
 https://young-ocean-9633.herokuapp.com/
